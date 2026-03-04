@@ -3,11 +3,11 @@ layout: project
 title: Nutcracker Design Project
 description: A design of a nutcracker, with calculations and discussions of usability
 technologies: n/a
-image: /workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png
+image: assets/images/Design_diagram.png
 ---
 
 
-![Design Diagram]({{ "/workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png" | relative_url }}){: class="diagram-image"}
+![Design Diagram]({{ "assets/images/Design_diagram.png" | relative_url }}){: class="diagram-image"}
 
 Find: distance_handle
 
