@@ -7,8 +7,7 @@ image: /workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png
 ---
 
 
-/workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png
-
+![Design Diagram](assets/images/Design_diagram.png)
 
 Find: distance_handle
 
