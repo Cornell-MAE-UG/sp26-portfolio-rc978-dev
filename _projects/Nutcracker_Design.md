@@ -1,10 +1,13 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
+title: Nutcracker Design Project
+description: A design of a nutcracker, with calculations and discussions of usability
+technologies: n/a
 image: /workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png
 ---
+
+
+/workspaces/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png
 
 
 Find: distance_handle
