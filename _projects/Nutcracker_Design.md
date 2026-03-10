@@ -7,7 +7,7 @@ image: assets/images/Design_diagram.png
 ---
 
 
-![Design Diagram]({{ "/assets/images/Design_diagram.png" | relative_url }}){: class="diagram-image"}
+![Design Diagram](/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png){: class="diagram-image"}
 
 Find: distance_handle
 
