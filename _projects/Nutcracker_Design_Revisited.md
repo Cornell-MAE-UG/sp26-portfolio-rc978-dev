@@ -21,6 +21,8 @@ and
 https://www.sciencedirect.com/topics/engineering/grip-force
 respectively.
 
+All other figures and expressions come directly from ENGRD 2020 Statics Textbook Appendices
+
 Plan:
 
 1. Find all the forces acting on one side of the nutcracker when the nut is about to crack
@@ -47,7 +49,16 @@ THE NUTCRACKER IS MADE OF STEEL.
 The high yield strength of E = 200,000,000,000 N means that the thickness of the cracker is 2 cm purely for comfort of use.
 
 Plan:
-1. Take one side of the nutcracker and assume it to be similar to a pinned system with a moment exerted on it
+1. Take one side of the nutcracker and assume it to be similar to a pinned system with a moment exerted on it.
+![Freebody Diagram](/sp26-portfolio-rc978-dev/assets/images/Pin_Diagram.jpg){: class="diagram-image"}
+
+2. The location of maximum deformation, as well as the expression for it, can be calculated from the expression given in Appendix E. Since steel has such a high modulus of elasticity, the thickness of two centimeters is decided entirely by convenience of grip. The cross-section is made a rectangle as shown for comfort reasons, and is made a fairly thin 0.15 in.
+![Calculation of Deformation](/sp26-portfolio-rc978-dev/assets/images/Calculation_of_deformation.jpg){: class="diagram-image"}
+3. The final diagram is shown as such:
+![Final Design](/sp26-portfolio-rc978-dev/assets/images/Final_Design_Illustration.jpg){: class="diagram-image"}
+
+
+
 
 
 
