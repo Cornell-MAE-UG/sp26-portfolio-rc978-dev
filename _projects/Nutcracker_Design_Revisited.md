@@ -9,6 +9,9 @@ image: assets/images/Design_diagram.png
 
 ![Design Diagram](/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png){: class="diagram-image"}
 
+
+ADDITIONAL NOTES: THE NUTCRACKER IS MADE OF STEEL. Due to the both the high yield strength and the significant thickness necessary for the handle, bending stresses, deformations, and shears are assumed to be negligible and will not be calculated due to the tiny force of 300 N being exerted on it. Furthermore, even if there is a calculable deformation, it will not affect the usability of the device at all.
+
 Find: distance_handle
 
 Given: distance_nut = 1 inch, F_cracking = 2207.25 N, F_grip = 300 N
