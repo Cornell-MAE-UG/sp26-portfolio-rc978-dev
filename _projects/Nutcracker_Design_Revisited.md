@@ -10,11 +10,7 @@ image: assets/images/Design_diagram.png
 ![Design Diagram](/sp26-portfolio-rc978-dev/assets/images/Design_diagram.png){: class="diagram-image"}
 
 
-ADDITIONAL NOTES: THE NUTCRACKER IS MADE OF STEEL. 
-Due to the both the high yield strength and the significant thickness necessary for the handle, 
-bending stresses, deformations, and shears are assumed to be negligible and will not be calculated 
-due to the tiny force of 300 N being exerted on it. Furthermore, even if there is a calculable deformation, 
-it will not affect the usability of the device at all.
+
 
 Find: distance_handle
 
@@ -44,6 +40,14 @@ Plan:
  The main drawback of this design results from several abstractions made in its design. Firstly, if the design is to be interpreted literally, then there is currently no mechanism to hold the nut in place, which would make it quite difficult to use. Realistically, there would be some sort of groove or a material with significant friction at the point of placement for the nut in order to hold it in place. Secondly, the design was made without considering the weight, which would also affect usability. A manufacturer would have to find a material with both the strength to withstand the torques exerted on it and the lightness to have those torques exerted easily.
 
  However, these aside, the design of the nutcracker provided should prove to easily break the nut. Where the nut's breaking point was slightly overestimated, the grip strength was also significantly underestimated in order to ensure that a user could easily break the nut. While this design is currently ergonomically questionable, it is mechanically feasible.
+
+DISCUSSION OF BENDING:
+
+THE NUTCRACKER IS MADE OF STEEL. 
+The high yield strength of E = 200,000,000,000 N means that the thickness of the cracker is 2 cm purely for comfort of use.
+
+Plan:
+1. Take one side of the nutcracker and assume it to be similar to a pinned system with a moment exerted on it
 
 
 
