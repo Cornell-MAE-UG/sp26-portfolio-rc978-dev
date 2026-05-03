@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Nutcracker Design Project
+title: Nutcracker Design Project Revisited
 description: A design of a nutcracker, with calculations and discussions of usability
 technologies: n/a
 image: assets/images/Design_diagram.png
